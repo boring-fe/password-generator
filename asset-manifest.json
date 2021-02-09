@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/boring-fe/password-generator/static/css/main.5f361e03.chunk.css",
+    "main.js": "/boring-fe/password-generator/static/js/main.6cf2ec15.chunk.js",
+    "main.js.map": "/boring-fe/password-generator/static/js/main.6cf2ec15.chunk.js.map",
+    "runtime-main.js": "/boring-fe/password-generator/static/js/runtime-main.eea0d589.js",
+    "runtime-main.js.map": "/boring-fe/password-generator/static/js/runtime-main.eea0d589.js.map",
+    "static/js/2.0f110493.chunk.js": "/boring-fe/password-generator/static/js/2.0f110493.chunk.js",
+    "static/js/2.0f110493.chunk.js.map": "/boring-fe/password-generator/static/js/2.0f110493.chunk.js.map",
+    "index.html": "/boring-fe/password-generator/index.html",
+    "precache-manifest.8efde7ac76d2d6b0fdc93508b857dc11.js": "/boring-fe/password-generator/precache-manifest.8efde7ac76d2d6b0fdc93508b857dc11.js",
+    "service-worker.js": "/boring-fe/password-generator/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/boring-fe/password-generator/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.0f110493.chunk.js.LICENSE.txt": "/boring-fe/password-generator/static/js/2.0f110493.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/boring-fe/password-generator/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eea0d589.js",
+    "static/js/2.0f110493.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.6cf2ec15.chunk.js"
+  ]
+}
